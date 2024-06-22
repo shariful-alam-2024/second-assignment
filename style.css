@@ -1,0 +1,253 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+*{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+}
+
+body{
+      background-color: #FAFAFA;
+      font-family: Plus Jakarta Sans", sans-serif;
+
+}
+.Button{
+      border-radius:3cap;
+      background-color: #FE8C45;
+      color: white;
+      border-color: white;
+      font-size: smaller;
+}
+.p1{
+      color: #8A47F6;
+}
+.pt{
+      padding-top: 8%;
+}
+.mx{
+      margin-left: 60%;
+}
+.hero{
+      width:1440px ;
+      height: 530px;
+      /* opacity:10%; */
+      top: 937px;
+      background-color: #ded6ec;
+
+}
+.papa{
+      width: 565px;
+      height: 532px;
+      top: 990px;
+      left: 100px;
+      
+}
+
+.dis{
+      display: flex;
+      
+      
+}
+
+.image1{
+      width: 355px;
+      height: 210px;
+      top: 1921px;
+      
+}
+.image2{
+      width: 240px;
+      height: 210px;
+      top: 1921px;
+     
+      
+}
+.image3{
+      height: 419px;
+}
+
+.image5{
+      width: 355px;
+      height: 210px;
+  
+      
+}
+.image4{
+      width: 240px;
+      height: 210px;
+      
+
+}
+.port{
+      text-align: center;
+}
+.sp{
+      color: #8A47F6;
+}
+
+.List{
+      display: flex ;
+      justify-content: center;
+      gap: 40px;
+      border: solid;
+      background-color: #FFFFFF;
+      border-radius: 1cap;
+      /* border-color: aqua; */
+}
+.mom{
+      margin-left: 17%;
+      align-items: center;
+      margin-right: 13%;
+      
+}
+.chi{
+      color: #8A47F6;
+
+}
+.mxi{
+      margin-left: 17%;
+}
+
+.dom{
+      margin-left: 17%;
+}
+.ima{
+      margin-left: 80%;
+}
+.text{
+      text-align: center;
+}
+.dog{
+      border-radius:3cap;
+      background-color: white;
+      color: black;
+     
+      font-size: smaller;
+}
+.al{
+      text-align: center;
+}
+.kl{
+    width: 390px; 
+    height: 370px; 
+    border-radius: 1cap;
+   
+}
+.b1{
+      margin-left: 35%;
+ 
+}
+.bor{
+      border-radius: 4px;
+}
+.bg{
+      width: 390px; 
+    height: 370px;
+    background-color:#222222;
+
+}
+.don{
+      width:5%;
+      color: #8A47F6;
+}
+.tom{
+      background-color: #ded6ec;
+}
+.wid{
+      margin-right: 100%;
+     
+}
+.dar{
+      border-radius: 3cap;
+     height: 12%;
+      background-color: #cfc7dd;
+      /* text-align: center; */
+}
+.button5 {
+      border-radius: 80%;
+      margin-left: 60%;
+      margin-bottom: 50%;
+      border-color: blue;
+      
+}
+.button5 :hover{
+      background-color:rgba(255, 255, 255, 0.821);
+}
+.But{
+      border-radius:3cap;
+      background-color: #FE8C45;
+      color: white;
+      border-color: white;
+      font-size: smaller;
+      margin-left: 60%;
+}
+.camp1{
+      width: 390px; 
+      height: 225px; 
+      padding-right:1%;
+      
+}
+.camp2{
+      height: 225px;
+      width: 305px;
+      
+}
+.camp3{
+      width: 390px;
+      height: 355px;
+      padding-right:1%;
+}
+.camp4{
+      height: 355px;
+      width: 305px;
+}
+.camp5{
+      height: 320px;
+      width: 290px;
+    
+}
+.pad{
+      padding-left: 1%;
+}
+
+.mon{
+      width:5%;
+      color: #f64747;
+}
+.hig{
+      height: 522px;
+}
+.foot{
+      width: 100%;
+      height: 30%;
+      background: #222222;
+}
+.FO{
+      text-align: center;
+}
+.sha{
+      border-width: 2px;
+      border-color: #f64747;
+      background-color: #ded6ec;
+      border-radius: 1cap;
+}
+.bmw>{
+      height: 30px;
+}
+.un{
+      
+      color: #FFFFFF;
+      text-align: center;
+}
+.bb{
+      border-radius: 1cap;
+      
+}
+.bf{
+      border-radius: 1cap;
+}
+.ima{
+      height: 5%;
+      width: 60%;
+      margin-left:0% ;
+      margin-top: 70%;
+}
